@@ -3,3 +3,5 @@
 [Resurrection Remix v7.0.3 (GSI)](https://github.com/Mixilver/ROMs/releases/download/RR-SM-T515/RR-P-v7.0.3-20191113-Unofficial-by_Mixilver.zip)
 # Android 10
 [OneUI 2.1 (Stock)](https://github.com/Mixilver/ROMs/releases/download/Stock-SM-T515/T515XXS8BUC4-recovery.zip)
+# Android 11
+[OneUI 3.1 (Stock)](https://github.com/Mixilver/ROMs/releases/download/Stock11-SM-T515/T515XXU8CVL1-recovery.zip)
