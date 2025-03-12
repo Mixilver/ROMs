@@ -5,3 +5,5 @@
 [OneUI 2.1 (Stock)](https://github.com/Mixilver/ROMs/releases/download/Stock-SM-T515/T515XXS8BUC4-recovery.zip)
 # Android 11
 [OneUI 3.1 (Stock)](https://github.com/Mixilver/ROMs/releases/download/Stock11-SM-T515/T515XXU8CVL1-recovery.zip)
+# Android 13
+[/e/OS-T 2.8 (GSI)](https://github.com/Mixilver/ROMs/releases/download/eos-SM-T515/eos2.8-t-20250228-UNOFFICIAL-by_Mixilver.zip)
