@@ -9,5 +9,7 @@
 [OneUI 3.1 (Stock)](https://github.com/Mixilver/ROMs/releases/download/Stock11-SM-T515/T515XXU8CVL1-recovery.zip)
 
 [crDroid 7.16 Mod (GSI)](https://github.com/Mixilver/ROMs/releases/download/crdroid-SM-T515/crDroidAndroid-11.0-20220330-GSI-v7.16_by_Mixilver.zip)
+# Android 12.1
+[LeOS 19.1 (GSI)](https://github.com/Mixilver/ROMs/releases/download/leos-SM-T515/leos19.1-20230926-UNOFFICIAL-by_Mixilver.zip)
 # Android 13
 [/e/OS-T 2.8 (GSI)](https://github.com/Mixilver/ROMs/releases/download/eos-SM-T515/eos2.8-t-20250228-UNOFFICIAL-by_Mixilver.zip)
