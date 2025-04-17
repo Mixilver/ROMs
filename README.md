@@ -15,5 +15,7 @@
 [/e/OS-T 2.8 (GSI)](https://github.com/Mixilver/ROMs/releases/download/eos-SM-T515/eos2.8-t-20250228-UNOFFICIAL-by_Mixilver.zip)
 
 # ROMs for Xiaomi Mi A3 | CC9e | CC9e conversion
+# Android 10
+[LineageOS 17.1 (stock a11 firmware)](https://github.com/Mixilver/ROMs/releases/download/los-mia3/lineage-17.1-20210116-UNOFFICIAL-laurel_sprout-by_Mixilver.zip)
 # Android 11
 [LineageOS 18.1 for CC9e|CC9e conversion](https://github.com/Mixilver/ROMs/releases/download/los-cc9e/lineage-18.1-20250314-UNOFFICIAL-laurus_by_Mixilver.zip)
