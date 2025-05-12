@@ -30,3 +30,7 @@
 ### Android 10
 [Samsung Experience(WingOS) (Stock)
 ](https://github.com/Mixilver/ROMs/releases/tag/SM-G6200)
+
+## ROMs for Xiaomi Redmi 13C
+### Android 12.1
+[LineageOS 19.1 (GSI)](https://github.com/Mixilver/ROMs/releases/download/los-redmi13c/lineage-19.1-20250118-UNOFFICIAL-gale-by_Mixilver.7z)
