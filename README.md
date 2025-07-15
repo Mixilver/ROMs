@@ -5,6 +5,7 @@
 [LineageOS 16.0 (GSI)](https://github.com/Mixilver/ROMs/releases/download/los-SM-T515/lineage16.0-20191017-UNOFFICIAL_by_Mixilver.zip)
 ### Android 10
 [OneUI 2.1 (Stock)](https://github.com/Mixilver/ROMs/releases/download/Stock-SM-T515/T515XXS8BUC4-recovery.zip)
+
 [OneUI 2.1 Lite](https://github.com/Mixilver/ROMs/releases/download/oneuilite-sm-t515/OneUI2.1Lite.zip)
 ### Android 11
 [OneUI 3.1 (Stock)](https://github.com/Mixilver/ROMs/releases/download/Stock11-SM-T515/T515XXU8CVL1-recovery.zip)
