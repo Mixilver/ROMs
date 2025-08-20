@@ -29,7 +29,7 @@
 [HyperOS 1 CN for CC9e|CC9e conversion](https://github.com/Mixilver/ROMs/releases/tag/hyperos1-cc9e)
 ### Android 14
 [HyperOS 2 CN for CC9e|CC9e conversion](https://github.com/Mixilver/ROMs/releases/download/hyperos2-cc9e/laurus_OS2.0.2.0.ULJCNXM_20250313.0000.00_14.0_cn.zip)
-№№№ Android 15
+### Android 15
 [LineageOS 22.2 for CC9e|CC9e conversion](https://github.com/Mixilver/ROMs/releases/download/los15-cc9e/lineage-22.2-20250812-UNOFFICIAL-laurus-PORT_by_Mixilver.zip)
 
 ## ROMs for Samsung Galaxy A6s (SM-G6200)
