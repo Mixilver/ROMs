@@ -25,8 +25,12 @@
 [Android One (Stock)](https://github.com/Mixilver/ROMs/releases/download/stock-mia3/V11.0.26.0.QFQMiXM.Android10.zip)
 ### Android 11
 [LineageOS 18.1 for CC9e|CC9e conversion](https://github.com/Mixilver/ROMs/releases/download/los-cc9e/lineage-18.1-20250314-UNOFFICIAL-laurus_by_Mixilver.zip)
+
+[crDroid v7.55](https://github.com/Mixilver/ROMs/releases/tag/crdroid-mia3-cc9e)
 ### Android 13
 [HyperOS 1 CN for CC9e|CC9e conversion](https://github.com/Mixilver/ROMs/releases/tag/hyperos1-cc9e)
+
+[crDroid Resurrected v9.30](https://github.com/Mixilver/ROMs/releases/tag/crdroida13-mia3)
 ### Android 14
 [HyperOS 2 CN for CC9e|CC9e conversion](https://github.com/Mixilver/ROMs/releases/download/hyperos2-cc9e/laurus_OS2.0.2.0.ULJCNXM_20250313.0000.00_14.0_cn.zip)
 ### Android 15
@@ -42,3 +46,12 @@
 ## ROMs for Xiaomi Redmi 13C
 ### Android 12.1
 [LineageOS 19.1 (GSI)](https://github.com/Mixilver/ROMs/releases/download/los-redmi13c/lineage-19.1-20250118-UNOFFICIAL-gale-by_Mixilver.7z)
+### Android 13
+[AlphaDroid v1.10](https://github.com/Mixilver/ROMs/releases/tag/alphadroid-redmi13c)
+
+[crDroid v9.20](https://github.com/Mixilver/ROMs/releases/tag/crdroid-redmi13c)
+
+[crDroid Resurrected v9.30](https://github.com/Mixilver/ROMs/releases/tag/crdroid-redmi13c-sign)
+
+## ROMs for Xiaomi Redmi 4A
+[crDroid v7.55](https://github.com/Mixilver/ROMs/releases/download/crdroid-4a%265a/crDroidAndroid-11.0-20250903-rova-v7.55.zip)
