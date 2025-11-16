@@ -56,3 +56,7 @@
 ## ROMs for Xiaomi Redmi 4A
 ### Android 11
 [crDroid v7.55](https://github.com/Mixilver/ROMs/releases/download/crdroid-4a%265a/crDroidAndroid-11.0-20250903-rova-v7.55.zip)
+
+## ROMs for Asus Zenfone Go (ZB500KL)
+### Android 6.0.1
+[LineageOS 13.0](https://github.com/Mixilver/ROMs/releases/tag/los-x00ad)
