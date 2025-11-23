@@ -1,4 +1,4 @@
-## ROMs for Samsung Galaxy Tab A 10.1 (2019) SM-T515
+## ROMs for Samsung Galaxy Tab A 10.1 (SM-T515)
 ### Android 9
 [Resurrection Remix v7.0.3 (GSI)](https://github.com/Mixilver/ROMs/releases/download/RR-SM-T515/RR-P-v7.0.3-20191113-Unofficial-by_Mixilver.zip)
 
@@ -60,3 +60,7 @@
 ## ROMs for Asus Zenfone Go (ZB500KL)
 ### Android 6.0.1
 [LineageOS 13.0](https://github.com/Mixilver/ROMs/releases/tag/los-x00ad)
+
+## ROMs for Samsung Galaxy A20 (SM-A205FN)
+### Android 11
+[crDroid v7.58](https://github.com/Mixilver/ROMs/releases/download/crdroid-a20/crDroidAndroid-11.0-20251123-a20-v7.58.zip)
