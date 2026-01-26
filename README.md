@@ -43,7 +43,7 @@
 [Samsung Experience(WingOS) (Stock)
 ](https://github.com/Mixilver/ROMs/releases/tag/SM-G6200)
 
-## ROMs for Xiaomi Redmi 13C
+## ROMs for Xiaomi Redmi 13C & Poco C65
 ### Android 12.1
 [LineageOS 19.1 (GSI)](https://github.com/Mixilver/ROMs/releases/download/los-redmi13c/lineage-19.1-20250118-UNOFFICIAL-gale-by_Mixilver.7z)
 ### Android 13
@@ -52,7 +52,10 @@
 [crDroid v9.20](https://github.com/Mixilver/ROMs/releases/tag/crdroid-redmi13c)
 
 [crDroid Resurrected v9.30](https://github.com/Mixilver/ROMs/releases/tag/crdroid-redmi13c-sign)
+### Android 15
+[HyperOS 2 CN](https://github.com/Mixilver/ROMs/releases/tag/hos2_a15_13c)
 
+[HyperOS 3 CN](https://github.com/Mixilver/ROMs/releases/tag/hos3a15_13c)
 ## ROMs for Xiaomi Redmi 4A
 ### Android 11
 [crDroid v7.55](https://github.com/Mixilver/ROMs/releases/download/crdroid-4a%265a/crDroidAndroid-11.0-20250903-rova-v7.55.zip)
