@@ -50,8 +50,6 @@
 ### Android 10
 [Samsung Experience(WingOS) (Stock)](https://github.com/Mixilver/ROMs/releases/tag/SM-G6200)
 
-[Samsung Experience (GSI)](https://github.com/Mixilver/ROMs/releases/tag/se_gsi)
-
 ## ROMs for Samsung Galaxy A20 (SM-A205FN)
 ### Android 11
 [crDroid v7.58](https://github.com/Mixilver/ROMs/releases/download/crdroid-a20/crDroidAndroid-11.0-20251123-a20-v7.58.zip)
